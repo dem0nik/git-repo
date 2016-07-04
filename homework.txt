@@ -1,1 +1,3 @@
+print("I get some studies.")
 print("I've done my homework!")
+print("I'm clever boy.")
